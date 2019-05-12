@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="BANK GURU" parallel="false">
+  <test name=" Run on FireFox">
+    <classes>
+      <class name="com.bankguru.account.Account_level_0_Stepbystep_topdown"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
